@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 from python_script.fetch_market_data import fetch_and_store_market_data  
-from python_script.query_reader import execute_query
+from python_script.execute_sql_query import execute_query
 from python_script.export_to_pdf_and_excel import export_index_to_pdf_and_excel
 from python_script.dashboard import create_dashboard
 
