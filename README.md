@@ -67,14 +67,5 @@ This project builds a data pipeline that tracks the performance of a custom equa
 
 ---
 
-## **Future Improvements**
-
-- **Advanced Analytics**: Incorporate sectoral analysis, volatility metrics, and sentiment analysis.
-- **Real-time Updates**: Enable live data visualization and tracking.
-- **Enhanced Data Sources**: Integrate alternative datasets like news, earnings, or macroeconomic indicators.
-- **Performance Optimization**: Implement caching for faster data retrieval and processing.
-
----
-
 ## **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
